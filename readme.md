@@ -11,7 +11,7 @@ VScode (Visual Studio Code) is where you'll write and edit your files.
     Each extension adds formatting shortcuts and visual feedback.
 
 ## 2. Log On to GitHub
-Create a free GitHub account at **https://github.com/join**.
+Create a free GitHub account [Here](https://github.com/join).
 Install the **GitHub Desktop** app onto your device.
     Make sure to log in!
 GitHub will host your repository online for you and your collaborators to access. 
