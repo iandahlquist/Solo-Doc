@@ -33,7 +33,7 @@ You will see a drop-down menu labeled changes with any file names that been rece
         Click the icon when ready to stage your file changes. 
 Once the icon is clicked, type a brief message in the message box to keep all changes organized for all collaborators (This includes you!)
 When you are done typing out your message, click the "Commit" button.
-Finally, to push these changes to your public repository press the "Sync" button that replaced the "Commit" button. 
+Finally, to push these changes to your public repository press the "Sync Changes" button that replaced the "Commit" button. 
 Make sure to follow these steps with any saved changes to files that you wish to push to your newly created repository. 
 ## 5. Deploy Your Repository
 On [GitHub](https://github.com), locate the settings menu for your repository. 
@@ -45,3 +45,14 @@ GitHub will now create a live URL from your "index.html" file.
 With the settings tab for your repository on [GitHub](https://github.com) you will find a tab labeled **COLLABORATORS**. Click on that tab. 
 Here, you will be able to add collaborators to your repository freely, so long as you have a username or email. 
     Add your collaborators and have them make a "Pull" request. 
+Review any changes they made to files and merge them into the live version of your repository. 
+    This ensures that our collaborators have full access to edit files at their own pace. 
+## 7. Write
+Now, it is time to create. 
+In VSCode, create a new file within your repository. Ensure it has been placed on the top level (this will happen by default).
+Begin typing your own instructions on how to create your own public repository. 
+    Hint: You are reading those instructions currently!
+Write your own **README.MD** file for the guests to your newly created repository. 
+Save, Stage, Commit, and Sync all of these changes!
+Your repository should now be up and fully running. 
+**ENJOY!**
