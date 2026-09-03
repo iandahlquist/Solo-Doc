@@ -1,7 +1,7 @@
 # Solo-Doc
-Getting Started: VSCode and GitHub Desktop
+## Getting Started: VSCode and GitHub Desktop
     A beginner's guide to basic web-publishing workflow. 
-    Basic editor, a single-source repository, a live webpage, and adding collaborators.
+    Understanding how to use a basic editor, a single-source repository, a live webpage, and how add collaborators.
 ## 1. Install an Editor
 Install **Visual Studio Code**. Click [HERE](https://code.visualstudio.com/download?_exp_download=fb315fc982).
 Use the left hand menu to find the extension tab.
