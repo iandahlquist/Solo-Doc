@@ -32,7 +32,8 @@ You will see a drop-down menu labeled changes with any file names that been rece
     Hover over the files and locate the plus icon "+" next to the file name. 
         Click the icon when ready to stage your file changes. 
 Once the icon is clicked, type a brief message in the message box to keep all changes organized for all collaborators (This includes you!)
-When you are done typing out your message, click the "Commit" button to push these changes to your public repository. 
+When you are done typing out your message, click the "Commit" button.
+Finally, to push these changes to your public repository press the "Sync" button that replaced the "Commit" button. 
 Make sure to follow these steps with any saved changes to files that you wish to push to your newly created repository. 
 ## 5. Deploy Your Repository
 On [GitHub](https://github.com), locate the settings menu for your repository. 
